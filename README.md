@@ -16,7 +16,6 @@ Covers the fundamentals of Java programming:
 ---
 
 ## 🔜 Upcoming Topics
-- Conditionals (if/else, switch)
 - Loops (for, while, do-while)
 - Arrays
 - Strings
