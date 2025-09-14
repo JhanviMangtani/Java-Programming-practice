@@ -5,7 +5,8 @@ The goal is to build a strong foundation in Java, starting from the basics and g
 
 ---
 
-## ✅ Completed: Basic Syntax & Output
+## ✅ Completed: 
+## 🔷Basic Syntax & Output
 Covers the fundamentals of Java programming:
 - Printing output (`System.out.println`)
 - Using `Scanner` for input
@@ -13,21 +14,16 @@ Covers the fundamentals of Java programming:
 - Variable declaration and data types
 - Swapping numbers (without third variable)
 
+
+
 ---
 
 ## 🔜 Upcoming Topics
-- Loops (for, while, do-while)
 - Arrays
 - Strings
 - Methods (functions)
 - Objects & References
 - Classes & Structures
-
----
-
-## 📂 Repository Structure
-- `BASIC_SYNTAX/` → Beginner programs (completed ✅)
-- Other folders will be added as topics progress
 
 ---
 
