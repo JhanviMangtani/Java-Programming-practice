@@ -21,7 +21,6 @@ Covers the fundamentals of Java programming:
 ## 🔜 Upcoming Topics
 - Arrays
 - Strings
-- Methods (functions)
 - Objects & References
 - Classes & Structures
 
